@@ -36,3 +36,6 @@ entry: [
 atom commond+option+control+Lでリロード
 
 ステートレスthis.state={...}を含まないcomponent
+
+state propsについて
+https://qiita.com/kyrieleison/items/78b3295ff3f37969ab50
