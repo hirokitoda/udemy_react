@@ -15,3 +15,22 @@ module: {
         },
       }],
     },
+
+srcの綴りをscrと書いてしまう癖がある、エラーした時は綴りをチェック
+
+JSXを使用する際の拡張子は動画では.jsだが.jsxにするとうまくいく
+
+.eslintrc.jsを変更
+module.exports = {
+  "extends": "airbnb",
+  "env": {
+    "browser": true
+  }
+};
+
+webpack.config.jsのmodule.exportのentryをjsx対応にさせる
+entry: [
+  './src/index.jsx',
+],
+
+atom commond+option+shift+Lでリロード
