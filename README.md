@@ -33,4 +33,6 @@ entry: [
   './src/index.jsx',
 ],
 
-atom commond+option+shift+Lでリロード
+atom commond+option+control+Lでリロード
+
+ステートレスthis.state={...}を含まないcomponent
