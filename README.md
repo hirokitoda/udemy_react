@@ -39,3 +39,5 @@ atom commond+option+control+Lでリロード
 
 state propsについて
 https://qiita.com/kyrieleison/items/78b3295ff3f37969ab50
+
+is defined but never usedは基本無視
