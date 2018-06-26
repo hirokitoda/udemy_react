@@ -41,3 +41,8 @@ state propsについて
 https://qiita.com/kyrieleison/items/78b3295ff3f37969ab50
 
 is defined but never usedは基本無視
+
+requireとは
+https://qiita.com/uryyyyyyy/items/b10b012703b5396ded5a
+
+propTypeをpropsTypeって間違えがち
