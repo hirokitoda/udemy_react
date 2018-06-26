@@ -46,3 +46,7 @@ requireとは
 https://qiita.com/uryyyyyyy/items/b10b012703b5396ded5a
 
 propTypeをpropsTypeって間違えがち
+
+paramsとは
+
+rec24でconsole画面にObjectと表示されていない
