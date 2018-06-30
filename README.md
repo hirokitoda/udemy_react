@@ -50,3 +50,11 @@ propTypeをpropsTypeって間違えがち
 paramsとは
 
 rec24でconsole画面にObjectと表示されていない
+
+GoogleMapの料金体系
+https://qiita.com/wf9a5m75/items/87fad6c484378c0519ec
+
+GoogleMapの"For development purposes only"
+
+コンポーネント入門（props/state）
+https://qiita.com/KeitaMoromizato/items/0da6c8e4264b1f206451
