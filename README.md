@@ -58,3 +58,13 @@ GoogleMapの"For development purposes only"
 
 コンポーネント入門（props/state）
 https://qiita.com/KeitaMoromizato/items/0da6c8e4264b1f206451
+
+requiredするとは
+
+GeocodeResultのlocationのobjectOf
+
+Use object destructuring
+https://qiita.com/mysticatea/items/c1a4e68266f1f3c021b8
+
+Prefer default export
+exportが１つなのにdefaultを使ってない
