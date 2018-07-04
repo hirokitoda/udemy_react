@@ -68,3 +68,21 @@ https://qiita.com/mysticatea/items/c1a4e68266f1f3c021b8
 
 Prefer default export
 exportが１つなのにdefaultを使ってない
+
+Newline required at end of file but not found
+ファイルの最後に空白が必要
+https://www.kabanoki.net/1380
+
+axiosについて
+https://qiita.com/gcyagyu/items/4d186df2e90c53228951
+axios
+    .get(エンドポイント, { params: {送りたいパラメーターの指定}　})
+    .then((results) => {
+        // 通信に成功してレスポンスが返ってきた時に実行したい処理
+    }
+    .catch((error) => {
+        // 通信に失敗してレスポンスが返ってこなかった時に実行したい処理
+    }
+
+    Unexpected newline before
+    その改行おかしいよ

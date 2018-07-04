@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 
 const HotelRow = ({ hotel }) => (
   <tr>
-    <td><a href="{hotel.url}" target="_blank">{hotel.name}</a></td>
+    <td><a href={hotel.url} target="_blank">{hotel.name}</a></td>
   </tr>
 );
 
